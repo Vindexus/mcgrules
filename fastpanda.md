@@ -13,7 +13,7 @@ TBD
 
 # The Play Area
 
-_graphic goes below
+_graphic goes below_
 
     =================================
     | 1.Backstage->[] [] [] []      |
@@ -34,10 +34,10 @@ _graphic goes below
 An area with faceup song and action cards that you can add to your hand.
 
 ## Draw Pile
-Songs and action cards.
+Songs and action cards to be drawn.
 
 ## Discard Pile
-Songs and action cards.
+Songs and action cards that have been discarded.
 
 ## Front Row
 These are the active crowd members who you want to please to earn points.
@@ -51,10 +51,10 @@ These are the songs you're cueing up to play to please the crowd.
 ---
 
 # On Your Turn
-On your turn you take up to **3 actions**. You can take the same action more than once and can do them in any order. Each action is described in greater detail later on.
+On your turn you take up to **2 actions**. You can take the same action more than once and can do them in any order. Each action is described in greater detail later on.
 
 **Actions**
- - **Draw** two cards
+ - **Draw** a card
  - **Take** a card from Backstage
  - **Cue** a song from your hand onto the next open slot of your Board
  - **Swap** the position of two songs on your Board
@@ -75,7 +75,8 @@ _graphic goes here_
     1->2->1->1 = In Sync
 
 
-After resolving crowd members, **draw a card**.
+### Ending Your Turn
+After pleasing crowd members, if any, **draw a card**.
 
 #### Maximum Hand Size
 If you have more than 7 cards in your hand after your turn is over, discard down to 7.
@@ -84,13 +85,13 @@ If you have more than 7 cards in your hand after your turn is over, discard down
 # The Actions
 
 ## Draw
-Draw two cards from the top of the draw pile. Keep in mind your max hand size is 7, described above.
+Draw a card from the top of the draw pile. Keep in mind your max hand size is 7, described above.
 
 ## Take
 Take one of the faceup cards from the Backstage area and add it to your hand. Immediately replace it with the top card of the draw pile.
 
 ## Cue
-Place one of the songs in your hand faceup in the first open spot on your board. If there are no open spots then you can first discard one of your cued songs and play the song in that spot.
+Place one of the songs in your hand faceup in the first open spot on your board. If there are no open spots then you can first discard one of your cued songs as a free action and play the song from hand into that spot.
 
 ## Swap
 Take two cued songs from your Board and swap their positions.
@@ -108,6 +109,18 @@ A round consists of each player taking a turn.
 
 ## Determining Turn Order
 
+### Pick Starting Card
+Each player picks one card from their hand and places it face down in their next available open spot on their board. If there are **no open** spots they must first discard the last song from their board.
+
+### Reveal Starting Cards
+Once everyone has picked a starting card, they are all revealed at once. Turn order is determined by the BPM of the cards played, with **lowest BPM going first** then the next lowest BPM, then the next and so on.
+
+If there is a tie in BPM the player with the fewest points goes first. If there is still a tie, flip a coin (_Note: we should change this later_).
+
 ---
 
 # Ending the Game
+When the **second to last** crowd member in the Front Row has been pleased and there are no more crowd members in The Stands, then that is the **final round**. Play continues until every player has played their turn that round, then the turn is over.
+
+## Determining the Winner
+Every player counts up the points tokens they earned. Whoever has the most wins. If there is a tie, the player with the most crowd members pleased wins. If there is still a tie then it's a tie.
