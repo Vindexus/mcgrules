@@ -62,17 +62,42 @@ On your turn you take up to **2 actions**. You can take the same action more tha
  - **Play** an action card from your hand
  
 ## Pleasing the Crowd
-When you're done your turn, check the songs you have on your Board from left to right. If the colors match up with any of the crowd members you have *pleased that crowd member*. Gain the points in the top left of the crowd member, as well as any from +1 tokens on that member. If the songs you played were *In Sync* (described below), take the extra points in the top right of the card.
+When you're done your turn, check the songs you have on your Board from left to right. 
+
+Check your cued cards's colors and tempo from left to right. If they match the preferences listed on a crowd member you have pleased that crowd member.
+
+### Example
+Jane has cued the following cards
+
+    [Red / BPM1] [Blue / BPM4] [Green / BPM2]
+
+And one of the crowd members has these in a line:
+
+    [Red] [BPM4] [Green]
+    
+Jane has please this crowd member as here first, second, and third cued songs match the crowd member's first, second, and third preferences.
+    
+### Loops vs Lines
+Some crowd members have their preferences in a straight line, and others in a loop.
+
+When the preferences are in a line, then the first song in your cue must match the first song in their list.
+
+When the preferences are in a loop, then then first cued song can match any of their preferences. The rest of your songs must follow the clockwise order listed on the crowd member.
+
+### Points Awards
+When you please a crowd member, gain the points listed on that crowd member, as well as any from +1 tokens on that member. 
+
+If the songs you played were *In Sync* (described below), gain the extra points as well.
 
 Discard the crowd member you've pleased and replace them with the next one from The Stands.
 
-### In Sync
+#### In Sync Points Bonus
 For a set of songs to be In Sync, the needle underneath the BPM can only move one space from one card to the next.
 
 _graphic goes here_
-    1->2->3    = In Sync  
-    2->1->3    = Not In Sync  
-    1->2->1->1 = In Sync
+    [X / BPM1] -> [X / BPM2] -> [X / BPM3] = In Sync  
+    [X / BPM3] -> [X / BPM1] -> [X / BPM2] = Not In Sync  
+    [X / BPM1] -> [X / BPM2] -> [X / BPM1] = In Sync
 
 
 ### Ending Your Turn
