@@ -1,5 +1,7 @@
 # DJ Duels With a Z
 
+---
+
 # Introduction
 ## Overview
 You are all DJs sharing a stage for the final show of the tour. You'll need to feel out the crowd to play music they'll like. If you play the right music you can turn crowd members into fans. Get them to dance into the right formations and you'll turn fans into super fans!
@@ -10,6 +12,8 @@ The winner is the player with the **most points** at the end of **8 rounds**. Yo
  - Having fans near the beachball
  - Gaining fans of certain colors
  - Having fans in lines of 3 or more
+
+---
 
 # Setup
 
@@ -56,14 +60,74 @@ Put the point tokens in an easily reachable pile on the table.
 Each player picks a token color and puts all tokens of that color in front of them.
 
 ## Pick Your Setlist
-Each player draws 10 song cards. If you do not like your hand you can discard them all and draw 10 more. You may only do this once.
+Each player draws 10 song cards then, without changing their order, chooses one:
+
+ - Keep all 10 cards
+ - Discard their 5 left-most cards and draw 5 more
+ - Discard their 5 right-most cards and draw 5 more
+
+---
 
 # Playing the Game
+The game is played over 8 rounds, with each player taking a turn in each round.
 
 ## Playing a Round
 
+### 0. Move Beachball
+Move the Beachball in the direction of the closest arrow to it. If this places it outside the dancefloor, loop it around to the other side.
+
+For the first round place the Beachball in the front left corner of the crowd, relative to the Stage.
+
+### 1. Effect Deck
+At the start of a round, reveal the top card of the Effects deck.
+
+### 2. Cue Songs
+Each player secretly chooses a song from their hand and holds it face down in front of them.
+
+### 3. The Drop!
+Once all players have cued a song, count down "3..2..1... Drop!" and all players reveal their cued song on the Drop.
+
+### 4. Player Turns
+In order of lowest BPM to highest BPM players take their turn (described later).
+
+In the case of a tie, the song with the earlier release date goes first.
+
+### 5. Score Beachball
+Each fan (a crowd member with your token on it) next to the Beachball earns its owner 1 point.
+
+### 6. Score Combos
+If you have a line of 3 or more fans in a row, column, or diagonally have completed a combo. Take all of the fans in your combo minus 1 off the board. They count as superfans and are worth points at the end of the game.
+
+### 7. Fill Dancefloor
+
+If any crowd members have been removed, move all dancers forward towards the stage. Then draw new crowd members and fill in the back of the crowd.
+
+#### Example
+Before
+
+|-|-|-|
+|:--|:--|:--|
+|_|B|G|
+|Y|_|R|
+|R|R|_|
+
+After
+
+|-|-|-|
+|:--|:--|:--|
+|Y|B|G|
+|R|R|R|
+|**Y\***|**B*\**|**G\***|
+
+
 ## Playing Your Turn
 
-## Determining the Winner
+---
+
+# Ending the Game
+
+
+
+## Determining Winner
 
 ### Resolving Ties
