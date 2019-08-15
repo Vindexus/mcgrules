@@ -129,18 +129,10 @@ What you can do on your turn is determined by the action icon on the song you pl
 The song types and their actions are below:
 
 ### Action Types
-|Icon|Place and Limited Action|No Place and Non-limited Action|
-|:--|:--|:--|
-|<=>|Place a token then you may move the dancer you just placed on either left or right one space.|Place no token then move _any_ dancer left or right one space.|
-|Up/Down|Place a token then you may move the dancer you just placed on either forward or backward one space.|Place no token then move _any_ dancer forward or backward one space.|
-|Hop|Place a token then swap the dancer you just placed on with a dancer two squares away, non-diagonally. The dancer in between does not move.|Swap the dancer you just placed on with a dancer two squares away, non-diagonally. The dancer in between does not move.|
-|Bthrm|Remove an empty crowd member then fill the dancefloor. You may then place a token.|Place no token and move any dancer to the back row, sliding those that were behind it forward one space.|
-
-### Action Types Layout 2
 
 ---
 
-#### Left/Right
+### Left/Right (⬅️➡️)
 
 ##### Option 1
 
@@ -153,7 +145,7 @@ The song types and their actions are below:
 
 ---
 
-#### Up/Down
+### Up/Down (⬆️⬇️)
 
 ##### Option 1
 
@@ -166,7 +158,7 @@ The song types and their actions are below:
 
 ---
 
-#### Hop
+### Hop (⤼)
 
 ##### Option 1
 
@@ -176,6 +168,21 @@ The song types and their actions are below:
 ##### Option 2
 
 1) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
+
+---
+
+### Bathroom Break (🚻)
+
+#### Option 1
+
+1) Remove any empty crowd member
+2) Fill in the dancefloor
+3) (Optional) Place a token on an empty dancer
+
+#### Option 2
+
+1) Move any dancer to the back of the column they are in
+2) Move any dancers that were behind them forward one spot
 
 ---
 
