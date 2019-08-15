@@ -84,11 +84,11 @@ At the start of a round, reveal the top card of the Effects deck.
 ### 2. Cue Songs
 Each player secretly chooses a song from their hand and holds it face down in front of them.
 
-### 3. The Drop!
+### 3. Reveal Song Cards (The Drop!)
 Once all players have cued a song, count down "3..2..1... Drop!" and all players reveal their cued song on the Drop.
 
 ### 4. Player Turns
-In order of lowest BPM to highest BPM players take their turn (described later).
+In order of lowest BPM to highest BPM players take their turns (described later).
 
 In the case of a tie, the song with the earlier release date goes first.
 
@@ -100,7 +100,7 @@ If you have a line of 3 or more fans in a row, column, or diagonally have comple
 
 ### 7. Fill Dancefloor
 
-If any crowd members have been removed, move all dancers forward towards the stage. Then draw new crowd members and fill in the back of the crowd.
+If any crowd members have been removed, move all dancers forward towards the stage. Then draw new crowd members to fill in the crowd back to its original size.
 
 #### Example
 Before
@@ -121,13 +121,106 @@ After
 
 
 ## Playing Your Turn
+What you can do on your turn is determined by the action icon on the song you played. Each song card allows you to either
+
+1. Place a token and perform a limited action
+2. Don't place a token but perform a non-limited action
+
+The song types and their actions are below:
+
+### Action Types
+|Icon|Place and Limited Action|No Place and Non-limited Action|
+|:--|:--|:--|
+|<=>|Place a token then you may move the dancer you just placed on either left or right one space.|Place no token then move _any_ dancer left or right one space.|
+|Up/Down|Place a token then you may move the dancer you just placed on either forward or backward one space.|Place no token then move _any_ dancer forward or backward one space.|
+|Hop|Place a token then swap the dancer you just placed on with a dancer two squares away, non-diagonally. The dancer in between does not move.|Swap the dancer you just placed on with a dancer two squares away, non-diagonally. The dancer in between does not move.|
+|Bthrm|Remove an empty crowd member then fill the dancefloor. You may then place a token.|Place no token and move any dancer to the back row, sliding those that were behind it forward one space.|
+
+### Action Types Layout 2
+
+---
+
+#### Left/Right
+
+##### Option 1
+
+1) Place your token on an empty dancer
+2) (Optional) Move that dancer left or right space
+
+##### Option 2
+
+1) Move _any_ dancer left or right 1 space
+
+---
+
+#### Up/Down
+
+##### Option 1
+
+1) Place your token on an empty dancer
+2) (Optional) Move that dancer forward or backwared 1 space
+
+##### Option 2
+
+1) Move _any_ dancer forward or backward 1 space
+
+---
+
+#### Hop
+
+##### Option 1
+
+1) Place your token on an empty dancer
+2) (Optional) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
+
+##### Option 2
+
+1) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
+
+---
+
+## Placing Token
+When placing a token on a dancer to claim them as a fan, you must place the token on a dancer with no tokens on it.
+
+Dancers cannot have more than one token on them.
+
+## Moving Dancers
+When moving a dancer you swap it with another dancer. Which dancer you swap it with will depend on the action on the song card you played. When moving dancers they keep any tokens they have on them.
+
+You cannot move a dancer off the edges of the dancefloor.
+
+## Removing a Dancer
 
 ---
 
 # Ending the Game
-
-
+When the last Effect card is drawn from the Effect deck that is the last round.
 
 ## Determining Winner
+When the game is over players find their final store.
+
+- Count the points you gained during the game
+- Get +2 points for each superfan you collected
 
 ### Resolving Ties
+If there is a tie for first place then an **extra round** is played. All players participate in the final round.
+
+ - Shuffle the Effect deck back together
+ - Deal all players one song card
+ - Play a round as usual
+ 
+Continue with extra rounds until there is no longer a tie.
+
+---
+
+# Example of Play
+
+---
+
+# Glossary
+
+---
+
+# Frequently Asked Questions
+
+---
