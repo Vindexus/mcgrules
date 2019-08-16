@@ -121,16 +121,18 @@ After
 
 
 ## Playing Your Turn
-What you can do on your turn is determined by the action icon on the song you played. Each song card allows you to either
+
+### Removing Fans
+At the start of your turn, you **may** remove a dancer with your token on it. The dancer is discarded, the token is returned to you, and you Fill the Dancefloor. This is useful if you are **out of tokens**.
+
+### Playing Your Song
+What actions you can take are determined by the action icon on the song you played. Each song card allows you to either
 
 1. Place a token and perform a limited action
 2. Don't place a token but perform a non-limited action
 
-The song types and their actions are below:
 
-### Action Types
-
----
+## Action Types
 
 ### Left/Right (⬅️➡️)
 
@@ -167,7 +169,7 @@ The song types and their actions are below:
 
 ##### Option 2
 
-1) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
+1) Swap any dancer with a dancer 2 spaces away, non-diagonally. The dancer in between will not move.
 
 ---
 
@@ -176,7 +178,7 @@ The song types and their actions are below:
 #### Option 1
 
 1) Remove any empty crowd member
-2) Fill in the dancefloor
+2) Fill the dancefloor, as described in item #7 of Play a Round above
 3) (Optional) Place a token on an empty dancer
 
 #### Option 2
@@ -195,8 +197,6 @@ Dancers cannot have more than one token on them.
 When moving a dancer you swap it with another dancer. Which dancer you swap it with will depend on the action on the song card you played. When moving dancers they keep any tokens they have on them.
 
 You cannot move a dancer off the edges of the dancefloor.
-
-## Removing a Dancer
 
 ---
 
@@ -229,5 +229,14 @@ Continue with extra rounds until there is no longer a tie.
 ---
 
 # Frequently Asked Questions
+
+#### If I use the Bathroom Break effect to remove an empty dancer, can I place my token on the newly revealed dancer.
+Yes.
+
+#### When do I collect points for the Effect cards that reward placing tokens on specific colors?
+Immediately upon placing the token.
+
+#### What happens if I run out of tokens?
+
 
 ---
