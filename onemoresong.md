@@ -7,12 +7,11 @@
 You are all DJs sharing a stage for the final show of the tour. You'll need to feel out the crowd to play music they'll like. If you play the right music you can turn crowd members into fans. Get them to dance into the right formations and you'll turn fans into super fans!
 
 ## Objective
-The winner is the player with the **most points** at the end of **8 rounds**. You will play songs to turn dancers into fans and gain points by:
+The winner is the player with the **most points** at the end of **8 rounds**. You will earn points by gaining **superfans** by:
 
- - Having fans near the beachball
- - Gaining fans of certain colors
- - Having fans in lines of 3 or more
-
+ - Arranging your fans into lines of 3 or more
+ - Moving your fans to certain areas of the dancefloor
+ 
 ---
 
 # Setup
@@ -45,26 +44,24 @@ Put the unused dancers in a face-down pile behind the dancefloor, opposite the S
 ## Song Deck
 Shuffle the song cards and place them on the Songs slot on the Stage.
 
-## Effects Deck
-Search the Effects deck for the 2 Crowd Bonus cards and set them aside. Shuffle the rest of the Effect cards and set 2 aside without looking at them. Shuffle the 2 Crowd Bonus cards into the remaining Effect cards, then place the random 2 that were set aside on top. Place this deck on the Effect slot on the Stage.
+## Hype Deck
+Create the Hype deck by finding 3 random Hype cards with the X icon. Place them on Hype section of the Stage, then place the Beachball Bop card on top facedown. Find 4 random Hype cards with the Y icon and put them on top.
+
 
 |Card #|Contents|
 |:--|:--|
 |1-2|Random without Crowd Bonus|
 |3-8|Random including Crowd Bonus|
 
-## Tokens
-Put the point tokens in an easily reachable pile on the table.
-
 ## Grab Player Tokens
 Each player picks a token color and puts all tokens of that color in front of them.
 
 ## Pick Your Setlist
-Each player draws 10 song cards then, without changing their order, chooses one:
+Each player draws 8 song cards then, without changing their order, chooses one:
 
- - Keep all 10 cards
- - Discard their 5 left-most cards and draw 5 more
- - Discard their 5 right-most cards and draw 5 more
+ - Keep all 8 cards
+ - Discard their 4 left-most cards and draw 4 more
+ - Discard their 4 right-most cards and draw 4 more
 
 ---
 
@@ -74,12 +71,12 @@ The game is played over 8 rounds, with each player taking a turn in each round.
 ## Playing a Round
 
 ### 0. Move Beachball
-Move the Beachball in the direction of the closest arrow to it. If this places it outside the dancefloor, loop it around to the other side.
+If the Beachball is in play, move the Beachball in the direction of the closest arrow to it. If this places it outside the dancefloor, loop it around to the other side.
 
 For the first round place the Beachball in the front left corner of the crowd, relative to the Stage.
 
-### 1. Effect Deck
-At the start of a round, reveal the top card of the Effects deck.
+### 1. Hype Deck
+At the start of a round, reveal the top card of the Hype deck.
 
 ### 2. Cue Songs
 Each player secretly chooses a song from their hand and holds it face down in front of them.
@@ -92,15 +89,17 @@ In order of lowest BPM to highest BPM players take their turns (described later)
 
 In the case of a tie, the song with the earlier release date goes first.
 
-### 5. Score Beachball
-Each fan (a crowd member with your token on it) next to the Beachball earns its owner 1 point.
+### 5. Award Combos
+In the same order that players took their turns, players will award combos.
 
-### 6. Score Combos
-If you have a line of 3 or more fans in a row, column, or diagonally have completed a combo. Take all of the fans in your combo minus 1 off the board. They count as superfans and are worth points at the end of the game.
+#### 1. Look for Combos
 
-### 7. Fill Dancefloor
+#### 2. Keep Superfans
 
+#### 3. Fill Dancefloor
 If any crowd members have been removed, move all dancers forward towards the stage. Then draw new crowd members to fill in the crowd back to its original size.
+
+#### 4. Let Someone Else Place a Token
 
 #### Example
 Before
