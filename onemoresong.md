@@ -100,65 +100,66 @@ In the same order that players took their turns, players will award combos (desc
 At the start of your turn, you **may** remove a dancer with your token on it. The dancer is discarded, the token is returned to you, and you Fill the Dancefloor. This is useful if you are **out of tokens**.
 
 ### Playing Your Song
-What actions you can take are determined by the action icon on the song you played. Each song card allows you to either
+What actions you can take are determined by the action icon on the song you played. Each song card lets you:
 
-1. Place a token and perform a limited action
-2. Don't place a token but perform a non-limited action
+1. Perform the action of the song
+
+ -and/or-
+
+1. Place a token on an empty dancer
 
 
 ## Action Types
 
 ### Left/Right (⬅️➡️)
 
-##### Option 1
+##### Move Dancer
 
-1) Place your token on an empty dancer
-2) (Optional) Move that dancer left or right space
+1) Move any dancer left or right one space
 
-##### Option 2
+##### Place Token
 
-1) Move _any_ dancer left or right 1 space
+1) Place a token on an empty dancer whose color matches the color of the song
+2) If you **moved a dancer** you cannot place on dancers you didn't move
 
 ---
 
 ### Up/Down (⬆️⬇️)
 
-##### Option 1
+##### Move Dancer
 
-1) Place your token on an empty dancer
-2) (Optional) Move that dancer forward or backwared 1 space
+1) Move any dancer forward or backward one space
 
-##### Option 2
+##### Place Token
 
-1) Move _any_ dancer forward or backward 1 space
+1) Place a token on an empty dancer whose color matches the color of the song
+2) If you **moved a dancer** you cannot place on dancers you didn't move
 
 ---
 
 ### Hop (⤼)
 
-##### Option 1
+##### Move Dancer
 
-1) Place your token on an empty dancer
-2) (Optional) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
+2) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
 
-##### Option 2
+##### Place Token
 
-1) Swap any dancer with a dancer 2 spaces away, non-diagonally. The dancer in between will not move.
+1) Place a token on an empty dancer whose color matches the color of the song
+2) If you **moved a dancer** you cannot place on dancers you didn't move
 
 ---
 
 ### Bathroom Break (🚻)
 
-#### Option 1
+#### Bathroom Break
 
 1) Remove any empty crowd member
-2) Fill the dancefloor, as described in item #7 of Play a Round above
-3) (Optional) Place a token on an empty dancer
+2) Fill the dancefloor, as described below
 
-#### Option 2
+##### Place Token
 
-1) Move any dancer to the back of the column they are in
-2) Move any dancers that were behind them forward one spot
+1) Place a token on an empty dancer whose color matches the color of the song, including any newly added dancers.
 
 ---
 
@@ -168,7 +169,7 @@ When placing a token on a dancer to claim them as a fan, you must place the toke
 Dancers cannot have more than one token on them.
 
 ## Moving Dancers
-When moving a dancer you swap it with another dancer. Which dancer you swap it with will depend on the action on the song card you played. When moving dancers they keep any tokens they have on them.
+When moving a dancer you will swap it with another dancer. Which dancer you swap it with will depend on the action on the song card you played. When moving dancers they keep any tokens they have on them.
 
 You cannot move a dancer off the edges of the dancefloor.
 
@@ -214,8 +215,8 @@ When the last Effect card is drawn from the Effect deck that is the last round.
 ## Determining Winner
 When the game is over players find their final store.
 
-- Count the points you gained during the game
-- Get +2 points for each superfan you collected
+ - Count your superfans: each is worth 2 points
+ - Count your superfans that match your Fan Quest: each is worth a further 1 point
 
 ### Resolving Ties
 If there is a tie for first place then an **extra round** is played. All players participate in the final round.
