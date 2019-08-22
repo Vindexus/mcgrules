@@ -210,7 +210,7 @@ Give the player to your left one of your tokens to place on an empty dancer.
 ---
 
 # Ending the Game
-When the last Effect card is drawn from the Effect deck that is the last round.
+When the last Hype card is drawn from the Hype deck that is the last round.
 
 ## Determining Winner
 When the game is over players find their final store.
@@ -221,7 +221,7 @@ When the game is over players find their final store.
 ### Resolving Ties
 If there is a tie for first place then an **extra round** is played. All players participate in the final round.
 
- - Shuffle the Effect deck back together
+ - Shuffle the Hype deck back together
  - Deal all players one song card
  - Play a round as usual
  
@@ -235,17 +235,24 @@ Continue with extra rounds until there is no longer a tie.
 
 # Glossary
 
+|Term|Description|
+|:--|:--|
+|BPM|Beats Per Minute. Used to determine turn order.|
+|Dancefloor|The grid of dancers in front of the stage.|
+|Dancer|A tile in the dancefloor.|
+|Fan|A dancer on the dancefloor with a player token on it.|
+|Superfan|A fan that has been collected by a player.|
+
 ---
 
 # Frequently Asked Questions
 
-#### If I use the Bathroom Break effect to remove an empty dancer, can I place my token on the newly revealed dancer.
+#### If I use the Bathroom Break effect to remove an empty dancer, can I place my token on the newly revealed dancer?
 Yes.
 
-#### When do I collect points for the Effect cards that reward placing tokens on specific colors?
-Immediately upon placing the token.
 
 #### What happens if I run out of tokens?
+At the start of your turn you may discard one of your dancers to get its token. You will _not_ gain the fan as a superfan. Fill the Dancefloor immediately after collecting your token.
 
 
 ---
