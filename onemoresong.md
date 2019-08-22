@@ -1,4 +1,4 @@
-# DJ Duels With a Z
+# BPMs Per Minute
 
 ---
 
@@ -7,17 +7,18 @@
 You are all DJs sharing a stage for the final show of the tour. You'll need to feel out the crowd to play music they'll like. If you play the right music you can turn crowd members into fans. Get them to dance into the right formations and you'll turn fans into super fans!
 
 ## Objective
-The winner is the player with the **most points** at the end of **8 rounds**. You will earn points by gaining **superfans** by:
+The winner is the player with the **most points** at the end of **8 rounds**. You earn points by gaining **superfans**. During the game you will:
 
- - Arranging your fans into lines of 3 or more
- - Moving your fans to certain areas of the dancefloor
- 
+ - Play songs to turn dancers into fans
+ - Move your fans into lines of 3 or more to make them superfans
+ - Move your fans to certain areas of the dancefloor to make them superfans
+
 ---
 
 # Setup
 
 ## Make the Stage
-Turn the box upside and place the Stage board on top of it, with the reference side of the board hanging down the front. Take the lid of the box and slide it upright under the back of the Stage.
+Turn the box upside and place the Stage board on top of it. Hang the reference side of the board down the front. Take the lid of the box and slide it upright under the back of the Stage.
 
 ## Make the Dancefloor
 Shuffle the dancer tiles into a pile. Create a grid of face-up dancers in front of the stage based on the number of players:
@@ -45,7 +46,7 @@ Put the unused dancers in a face-down pile behind the dancefloor, opposite the S
 Shuffle the song cards and place them on the Songs slot on the Stage.
 
 ## Hype Deck
-Create the Hype deck by finding 3 random Hype cards with the X icon. Place them on Hype section of the Stage, then place the Beachball Bop card on top facedown. Find 4 random Hype cards with the Y icon and put them on top.
+Create the Hype deck by finding 4 random Hype cards with the X icon. Place them on Hype section of the Stage, then place the Beachball Bop card on top facedown. Find 3 random Hype cards with the Y icon and put them on top. Put the remainder of the Hype cards aside.
 
 
 |Card #|Contents|
@@ -56,12 +57,11 @@ Create the Hype deck by finding 3 random Hype cards with the X icon. Place them 
 ## Grab Player Tokens
 Each player picks a token color and puts all tokens of that color in front of them.
 
-## Pick Your Setlist
-Each player draws 8 song cards then, without changing their order, chooses one:
+## Deal Player Quests
+Deal each player one random Fan Quest card. Put the remainding aside.
 
- - Keep all 8 cards
- - Discard their 4 left-most cards and draw 4 more
- - Discard their 4 right-most cards and draw 4 more
+## Pick Your Setlist
+Each player draws 10 song cards and discards 2.
 
 ---
 
@@ -71,9 +71,9 @@ The game is played over 8 rounds, with each player taking a turn in each round.
 ## Playing a Round
 
 ### 0. Move Beachball
-If the Beachball is in play, move the Beachball in the direction of the closest arrow to it. If this places it outside the dancefloor, loop it around to the other side.
+If the Beachball is in play, move the Beachball in the direction of the arrow on the dancer touching the Beachball. If this places it outside the dancefloor, loop it around to the other side. The Beachball should always have **4 dancers** around it.
 
-For the first round place the Beachball in the front left corner of the crowd, relative to the Stage.
+For the first round place the Beachball in the front left corner of the dancefloor.
 
 ### 1. Hype Deck
 At the start of a round, reveal the top card of the Hype deck.
@@ -84,42 +84,17 @@ Each player secretly chooses a song from their hand and holds it face down in fr
 ### 3. Reveal Song Cards (The Drop!)
 Once all players have cued a song, count down "3..2..1... Drop!" and all players reveal their cued song on the Drop.
 
-### 4. Player Turns
-In order of lowest BPM to highest BPM players take their turns (described later).
+### 4. Play Songs
+In order of lowest BPM to highest BPM players will play their songs (described later).
 
 In the case of a tie, the song with the earlier release date goes first.
 
-### 5. Award Combos
-In the same order that players took their turns, players will award combos.
+### 5. Check for Combos
+In the same order that players took their turns, players will award combos (described later).
 
-#### 1. Look for Combos
+---
 
-#### 2. Keep Superfans
-
-#### 3. Fill Dancefloor
-If any crowd members have been removed, move all dancers forward towards the stage. Then draw new crowd members to fill in the crowd back to its original size.
-
-#### 4. Let Someone Else Place a Token
-
-#### Example
-Before
-
-|-|-|-|
-|:--|:--|:--|
-|_|B|G|
-|Y|_|R|
-|R|R|_|
-
-After
-
-|-|-|-|
-|:--|:--|:--|
-|Y|B|G|
-|R|R|R|
-|**Y\***|**B*\**|**G\***|
-
-
-## Playing Your Turn
+## Playing Songs
 
 ### Removing Fans
 At the start of your turn, you **may** remove a dancer with your token on it. The dancer is discarded, the token is returned to you, and you Fill the Dancefloor. This is useful if you are **out of tokens**.
@@ -196,6 +171,40 @@ Dancers cannot have more than one token on them.
 When moving a dancer you swap it with another dancer. Which dancer you swap it with will depend on the action on the song card you played. When moving dancers they keep any tokens they have on them.
 
 You cannot move a dancer off the edges of the dancefloor.
+
+---
+
+## Check for Combos
+After each player has had their turn, players will take turns checking for combos. Do this in the same order that players took their turns. When it is your turn to Check for Combos you will: 
+
+#### 1. Look for Lines
+Check if you have 3 or more of *your* fans in a line: down, across, or diagonal. It is possible to have more than one combo. It is possible for a fan to be a part of more than one combo.
+
+#### 2. Keep Superfans
+Pick one fan across all of your combos to remain on the board. Keep the others as **superfans** in front of you. They are worth points at the end of the game.
+
+#### 3. Fill Dancefloor
+Move all dancers forward towards the stage to fill in any gaps. Draw new dancers to fill in the dancefloor back to its original size.
+
+##### Example
+Before
+
+|-|-|-|
+|:--|:--|:--|
+|_|B|G|
+|Y|_|R|
+|R|R|_|
+
+After
+
+|-|-|-|
+|:--|:--|:--|
+|Y|B|G|
+|R|R|R|
+|**Y\***|**B*\**|**G\***|
+
+#### 4. Another Player Places a Token
+Give the player to your left one of your tokens to place on an empty dancer.
 
 ---
 
