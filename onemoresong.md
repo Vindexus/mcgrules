@@ -48,11 +48,6 @@ Shuffle the Song cards and place them on the Songs slot on the Stage.
 ## Hype Deck
 Create the Hype deck by with 16 random Hype cards.
 
-|Card #|Contents|
-|:--|:--|
-|1-2|Random without Crowd Bonus|
-|3-8|Random including Crowd Bonus|
-
 ## Grab Player Tokens
 Each player picks a token color and puts all tokens of that color in front of them.
 
@@ -60,7 +55,7 @@ Each player picks a token color and puts all tokens of that color in front of th
 Deal each player one random Fan Quest card. Put the remaining aside.
 
 ## Pick Your Setlist
-Each player draws 10 Song cards. Each player may mulligan their entire hand once, discarding all songs and drawing 10 more.
+Each player draws 10 Song cards. Each player may mulligan their entire hand once, discarding all Songs and drawing 10 more.
 
 ## Pick Hypemaster
 Pick one player to be the Hypemaster and place the Hype deck in front of them.
@@ -68,7 +63,7 @@ Pick one player to be the Hypemaster and place the Hype deck in front of them.
 ---
 
 # Playing the Game
-The game is played over 8 rounds, with each player taking a turn in each round.
+The game is played over 8 rounds, with each player playing one Song per round.
 
 ## Playing a Round
 
