@@ -11,7 +11,7 @@ The winner is the player with the **most points** at the end of **8 rounds**. Yo
 
  - Play songs to turn dancers into fans
  - Move your fans into lines of 3 or more to make them superfans
- - Move your fans to certain areas of the dancefloor to make them superfans
+ - Move your fans to certain areas of the dance floor to make them superfans
 
 ---
 
@@ -20,7 +20,7 @@ The winner is the player with the **most points** at the end of **8 rounds**. Yo
 ## Make the Stage
 Turn the box upside and place the Stage board on top of it. Hang the reference side of the board down the front. Take the lid of the box and slide it upright under the back of the Stage.
 
-## Make the Dancefloor
+## Make the Dance Floor
 Shuffle the dancer tiles into a pile. Create a grid of face-up dancers in front of the stage based on the number of players:
 
 |Players|Size|
@@ -40,7 +40,7 @@ Cells with 2+ are used in games with 2 or more players, 3+ for 3 or more players
 |2+|2+|2+|3+|
 |4+|4+|4+|4+|
 
-Put the unused dancers in a face-down pile behind the dancefloor, opposite the Stage. This will form the **dancer draw pile**.
+Put the unused dancers in a face-down pile behind the dance floor, opposite the Stage. This will form the **dancer draw pile**.
 
 ## Song Deck
 Shuffle the Song cards and place them on the Songs slot on the Stage.
@@ -90,7 +90,7 @@ In the case of a tie, the song with the earlier release date goes first.
 The player(s) with the most fans next to the Beachball each gain 1 random superfan from the top of the dancer draw pile.
 
 ### 6. Check for Combos
-In the same order that players took their turns, players will award combos (described later).
+In the same order that players took their turns, players will check for combos (described later).
 
 ### 7. Move Beachball
 Move the Beachball twice. The Beachball moves in the direction of the dancer whose arrow  is closest to the Beachball. If the Beachball would move off the edge of the dance floor, loop it around to the other side of the dance floor.
@@ -131,7 +131,7 @@ Swap any dancer with a dancer 2 spaces away, non-diagonally. The dancer in betwe
 
 ### Bathroom Break (Special) (🚻)
 1) Remove any empty crowd member
-2) Fill the dancefloor, as described below
+2) Fill the dance floor, as described below
 
 Bathroom Break does not count as a movement action.
 
@@ -148,13 +148,15 @@ You cannot move a dancer off the edges of the dance floor.
 After each player has had their turn playing their song, players will take turns checking for Combos. Do this in the same order that players took their turns. When it is your turn to Check for Combos you will: 
 
 #### 1. Look for Lines
-Check if you have 3 or more of *your* fans in a line: down, across, or diagonally. If you do that is called a Combo. It is possible to have more than one combo. It is possible for a fan to be a part of more than one Combo.
+Check if you have 3 or more of *your* fans in a line: down, across, or diagonally. If you do that is called a Combo. It is possible to have more than one Combo. It is possible for a fan to be a part of more than one Combo.
 
 #### 2. Keep Superfans
-Pick one fan across all of your Combos to remain on the board. Keep the others as **superfans** in front of you. They are worth points at the end of the game.
+Pick one fan across all of your Combos to remain on the board. Take all other fans in your Combos off the board and keep them as **superfans** in front of you. They are worth points at the end of the game. Your tokens are returned to you.
 
 #### 3. Fill Dance Floor
-Move all dancers forward towards the stage to fill in any gaps. Draw new dancers to fill in the dancefloor back to its original size.
+Move all dancers forward towards the Stage to fill in any gaps. Draw new dancers to fill in the dance floor back to its original size.
+
+*Note*: Because Combos are checked for in BPM order, it is possible for one player to get a Combo that will shift the dance floor and break another player's existing Combo.
 
 ##### Example of Filling the Dance Floor
 Before
@@ -208,8 +210,8 @@ Continue with extra rounds until there is no longer a tie for first place.
 |BPM|Beats Per Minute. Used to determine turn order.|
 |Combo|A line of three or more fans from the same player. Awards superfans.|
 |Dance Floor|The grid of dancers in front of the stage.|
-|Dancer|A tile in the dancefloor.|
-|Fan|A dancer on the dancefloor with a player token on it.|
+|Dancer|A tile in the dance floor.|
+|Fan|A dancer on the dance floor with a player token on it.|
 |Superfan|A fan that has been collected by a player.|
 
 ---
@@ -219,6 +221,5 @@ Continue with extra rounds until there is no longer a tie for first place.
 #### If I use the Bathroom Break effect to remove an empty dancer, can I place my token on the newly revealed dancer?
 Yes.
 
-
 #### What happens if I run out of tokens?
-At the start of your turn you may discard one of your dancers to get its token. You will _not_ gain the fan as a superfan. Fill the Dancefloor immediately after collecting your token.
+At the start of your turn you may discard one of your dancers to get its token. You will _not_ gain the fan as a superfan. Fill the Dance Floor immediately after collecting your token.
