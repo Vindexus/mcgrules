@@ -4,10 +4,10 @@
 
 # Introduction
 ## Overview
-You are all DJs sharing a stage for the final show of the tour. You'll need to feel out the crowd to play music they'll like. If you play the right music you can turn crowd members into fans. Get them to dance into the right formations and you'll turn fans into super fans!
+You are all DJs sharing a stage for the final show of the tour. You'll need to feel out the crowd to play music they'll like. If you play the right music you can turn crowd members into fans. Get them to dance into the right formations and you'll turn fans into **superfans**!
 
 ## Objective
-The winner is the player with the **most points** at the end of **8 rounds**. You earn points by gaining **superfans**. During the game you will:
+The winner is the player with the **most points** at the end of **8 rounds**. You earn points by gaining superfans. During the game you will:
 
  - Play songs to turn dancers into fans
  - Move your fans into lines of 3 or more to make them superfans
