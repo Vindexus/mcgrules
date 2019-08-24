@@ -43,11 +43,10 @@ Cells with 2+ are used in games with 2 or more players, 3+ for 3 or more players
 Put the unused dancers in a face-down pile behind the dancefloor, opposite the Stage. This will form the **dancer draw pile**.
 
 ## Song Deck
-Shuffle the song cards and place them on the Songs slot on the Stage.
+Shuffle the Song cards and place them on the Songs slot on the Stage.
 
 ## Hype Deck
-Create the Hype deck by finding 4 random Hype cards with the X icon. Place them on Hype section of the Stage, then place the Beachball Bop card on top facedown. Find 3 random Hype cards with the Y icon and put them on top. Put the remainder of the Hype cards aside.
-
+Create the Hype deck by with 16 random Hype cards.
 
 |Card #|Contents|
 |:--|:--|
@@ -58,10 +57,13 @@ Create the Hype deck by finding 4 random Hype cards with the X icon. Place them 
 Each player picks a token color and puts all tokens of that color in front of them.
 
 ## Deal Player Quests
-Deal each player one random Fan Quest card. Put the remainding aside.
+Deal each player one random Fan Quest card. Put the remaining aside.
 
 ## Pick Your Setlist
-Each player draws 10 song cards and discards 2.
+Each player draws 10 Song cards. Each player may mulligan their entire hand once, discarding all songs and drawing 10 more.
+
+## Pick Hypemaster
+Pick one player to be the Hypemaster and place the Hype deck in front of them.
 
 ---
 
@@ -71,7 +73,7 @@ The game is played over 8 rounds, with each player taking a turn in each round.
 ## Playing a Round
 
 ### 1. Hype Deck
-At the start of a round, the Hypermaster draws two Hype cards and reveals one. The other is discarded.
+At the start of a round, the Hypermaster draws two Hype cards and reveals one to be active for that round. The other is discarded.
 
 ### 2. Cue Songs
 Each player secretly chooses a song from their hand and holds it face down in front of them.
@@ -84,79 +86,56 @@ In order of lowest BPM to highest BPM players will play their songs (described l
 
 In the case of a tie, the song with the earlier release date goes first.
 
-### 5. Check for Combos
+### 5. Score Beachball
+The player(s) with the most fans next to the Beachball each gain 1 random superfan from the top of the dancer draw pile.
+
+### 6. Check for Combos
 In the same order that players took their turns, players will award combos (described later).
+
+### 7. Move Beachball
+Move the Beachball twice. The Beachball moves in the direction of the dancer whose arrow  is closest to the Beachball. If the Beachball would move off the edge of the dance floor, loop it around to the other side of the dance floor.
+
+The arrow to use will always be the dancer's who is down and to the right of the Beachball.
+
+The Beachball should always be surrounded by 4 dancers.
+
+### 8. Change Hypemaster
+The Hypemaster passes the Hype deck to the player to their left, making them the next round's Hypemaster.
 
 ---
 
 ## Playing Songs
-What actions you can take are determined by the action icon on the song you played. Each song card lets you:
+On your turn you will do the following
 
-1. Perform the action of the song
+### 1. Perform the action of the song (optional)
+Actions are described below.
 
  -and/or-
 
-2. Place a token on an empty dancer
+### 2. Place a Token (optional)
+Place one of your player tokens on an empty dancer whose color matches the song you played.
 
+**If you used a movement action** then you can only place on empty dancers you moved whose color matches the song you played.
+
+You cannot place tokens on dancers who already have tokens.
 
 ## Action Types
+### Left/Right (Movement) (⬅️➡️)
+Move any dancer left or right one space.
 
-### Left/Right (⬅️➡️)
-
-##### Move Dancer
-
-1) Move any dancer left or right one space
-
-##### Place Token
-
-1) Place a token on an empty dancer whose color matches the color of the song
-2) If you **moved a dancer** you cannot place on dancers you didn't move
-
----
-
-### Up/Down (⬆️⬇️)
-
-##### Move Dancer
-
+### Up/Down (Movement) (⬆️⬇️)
 1) Move any dancer forward or backward one space
 
-##### Place Token
+### Hop (Movement) (⤼)
+Swap any dancer with a dancer 2 spaces away, non-diagonally. The dancer in between will not move.
 
-1) Place a token on an empty dancer whose color matches the color of the song
-2) If you **moved a dancer** you cannot place on dancers you didn't move
-
----
-
-### Hop (⤼)
-
-##### Move Dancer
-
-2) Swap that dancer with any dancer 2 spaces away, non-diagonally. The dancer in between will not move.
-
-##### Place Token
-
-1) Place a token on an empty dancer whose color matches the color of the song
-2) If you **moved a dancer** you cannot place on dancers you didn't move
-
----
-
-### Bathroom Break (🚻)
-
-#### Bathroom Break
-
+### Bathroom Break (Special) (🚻)
 1) Remove any empty crowd member
 2) Fill the dancefloor, as described below
 
-##### Place Token
-
-1) Place a token on an empty dancer whose color matches the color of the song, including any newly added dancers.
+Bathroom Break does not count as a movement action.
 
 ---
-
-## Placing Token
-When placing a token on a dancer to claim them as a fan, you must place the token on a dancer with no tokens on it.
-
-Dancers cannot have more than one token on them.
 
 ## Moving Dancers
 When moving a dancer you will swap it with another dancer. Which dancer you swap it with will depend on the action on the song card you played. When moving dancers they keep any tokens they have on them.
@@ -166,20 +145,18 @@ You cannot move a dancer off the edges of the dance floor.
 ---
 
 ## Check for Combos
-After each player has had their turn, players will take turns checking for combos. Do this in the same order that players took their turns. When it is your turn to Check for Combos you will: 
+After each player has had their turn playing their song, players will take turns checking for Combos. Do this in the same order that players took their turns. When it is your turn to Check for Combos you will: 
 
 #### 1. Look for Lines
-Check if you have 3 or more of *your* fans in a line: down, across, or diagonally. It is possible to have more than one combo. It is possible for a fan to be a part of more than one combo.
+Check if you have 3 or more of *your* fans in a line: down, across, or diagonally. If you do that is called a Combo. It is possible to have more than one combo. It is possible for a fan to be a part of more than one Combo.
 
 #### 2. Keep Superfans
-Pick one fan across all of your combos to remain on the board. Keep the others as **superfans** in front of you. They are worth points at the end of the game.
+Pick one fan across all of your Combos to remain on the board. Keep the others as **superfans** in front of you. They are worth points at the end of the game.
 
-#### 3. Fill Dancefloor
+#### 3. Fill Dance Floor
 Move all dancers forward towards the stage to fill in any gaps. Draw new dancers to fill in the dancefloor back to its original size.
 
-####
-
-##### Example
+##### Example of Filling the Dance Floor
 Before
 
 |-|-|-|
@@ -196,32 +173,30 @@ After
 |R|R|R|
 |**Y\***|**B*\**|**G\***|
 
-#### 4. Another Player Places a Token
-Give the player to your left one of your tokens to place on an empty dancer.
+#### 4. Other Player Places Your Token(s)
+For each Combo you got, the player to your left will place one of your tokens on an empty dancer.
 
 ---
 
 # Ending the Game
-When the last Hype card is drawn from the Hype deck that is the last round.
+When the Hype deck is empty, that signals the final round of the game.
 
 ## Determining Winner
 When the game is over players find their final store.
 
  - Count your superfans: each is worth 2 points
  - Count your superfans that match your Fan Quest: each is worth a further 1 point
+ 
+The player with the most points is the winner!
 
 ### Resolving Ties
-If there is a tie for first place then an **extra round** is played. All players participate in the final round.
+If there is a tie for first place then an **extra round** is played. All players participate in the extra round and can end up the winner.
 
  - Shuffle the Hype deck back together
  - Deal all players one song card
  - Play a round as usual
  
-Continue with extra rounds until there is no longer a tie.
-
----
-
-# Example of Play
+Continue with extra rounds until there is no longer a tie for first place.
 
 ---
 
@@ -229,8 +204,10 @@ Continue with extra rounds until there is no longer a tie.
 
 |Term|Description|
 |:--|:--|
+|Beachball|Moves around the dance floor, awarding points to players with nearby fans.
 |BPM|Beats Per Minute. Used to determine turn order.|
-|Dancefloor|The grid of dancers in front of the stage.|
+|Combo|A line of three or more fans from the same player. Awards superfans.|
+|Dance Floor|The grid of dancers in front of the stage.|
 |Dancer|A tile in the dancefloor.|
 |Fan|A dancer on the dancefloor with a player token on it.|
 |Superfan|A fan that has been collected by a player.|
